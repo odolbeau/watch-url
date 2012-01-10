@@ -8,7 +8,7 @@ if (!is_dir($dataDir)) {
 }
 
 if (!isset($argv[1])) {
-    echo "Usage: php read-title.php mon-url\n";
+    echo "Usage: php watch-url.php mon-url\n";
     exit;
 }
 
