@@ -1,5 +1,5 @@
 {
     "require": {
-        "symfony/browser-kit": "2.1.0-dev"
+        "kriswallsmith/buzz": "master-dev"
     }
 }
