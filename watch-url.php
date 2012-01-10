@@ -38,7 +38,7 @@ if ($statusCode !== null && $content !== null) {
         echo 'New status code: '.$newStatusCode."\n";
         echo '------'."\n";
         echo $newContent;
-        exec("notify-send 'FREE!!! FREE!!! FREE!!! FREE!!! FREE!!! FREE!!! FREE!!! FREE!!! FREE!!! FREE!!!'");
+        exec("google-chrome 'http://www.youtube.com/watch?v=dQw4w9WgXcQ'");
     }
 }
 
