@@ -1,12 +1,12 @@
 Watch URL
 =========
 
-Watches... a URL.
+Watches... an URL.
 
 Install
 :::::::
 
-    php composer.phar install
+    composer install
 
 Usage
 :::::
